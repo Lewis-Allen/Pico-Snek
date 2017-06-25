@@ -1,9 +1,11 @@
 # Pico-Snek
 
-Snake Game made in Pico-8
+Snake Game made in Pico-8 with the Lua language.
 
-## ToDo
+<img src="http://imgur.com/zBaZgdv.png" width="300">
 
-- Score
-- Win/Lose
-- Optimization
+## Improvements
+
+- Update Graphics
+- Win/Lose Screens
+- Difficulty
